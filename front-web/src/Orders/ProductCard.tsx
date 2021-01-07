@@ -1,5 +1,4 @@
 
-import { fetchProducts } from '../api';
 import { Product } from './types';
 
 type Props = {
