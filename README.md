@@ -1,10 +1,17 @@
-# DS Delivery
 
-# Sobre o projeto
+<h1 align="center">
+DS Delivery
+</h1>
 
 
-https://marco-sds2.netlify.app/
+## :information_source: Link 
 
+- Netlify: https://marco-sds2.netlify.app/
+
+
+
+
+## :information_source: Sobre o projeto
 
 DS Delivery é uma aplicação full stack web e mobile construída durante a  **Semana DevSuperior 2.0**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
@@ -34,22 +41,22 @@ A aplicação consiste em um sistema de registro e entrega de pedidos.
 
 # Tecnologias utilizadas
 ## Back-end
-- Java
-- Spring Boot
-- Maven
+* Java
+* Spring Boot
+* Maven
 
 ## Front-end Web
-- ReactJS
-- Axios
-- Leaflet
-- Expo
+
+-  [ReactJS](https://reactjs.org/)
+-  [Axios](https://github.com/axios/axios)
+-  [Leaflet](https://github.com/Leaflet/Leaflet)
+
 
 ## Front-end Mobile
 
-- React Native
-- Axios
-- days.js
-- Expo
+-  [React Native](https://github.com/facebook/react-native)
+-  [Axios](https://github.com/axios/axios)
+-  [dayjs](https://github.com/iamkun/dayjs)
 
 ## Implantação em produção
 - Back end: Heroku
