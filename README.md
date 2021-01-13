@@ -53,6 +53,7 @@ A aplicação consiste em um sistema de registro e entrega de pedidos.
 -  ReactJS
 -  Axios
 -  Leaflet
+-  TypeScript
 
 
 ## Front-end Mobile
@@ -60,6 +61,7 @@ A aplicação consiste em um sistema de registro e entrega de pedidos.
 -  React Native
 -  Axios
 -  dayjs
+-  TypeScript
 
 ## Implantação em produção
 - Back end: Heroku
