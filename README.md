@@ -13,6 +13,9 @@ DS Delivery
 
 ## :information_source: Sobre o projeto
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dsdeliver-sds2/blob/main/LICENSE) 
+
+
 DS Delivery é uma aplicação full stack web e mobile construída durante a  **Semana DevSuperior 2.0**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um sistema de registro e entrega de pedidos.
@@ -47,16 +50,16 @@ A aplicação consiste em um sistema de registro e entrega de pedidos.
 
 ## Front-end Web
 
--  [ReactJS](https://reactjs.org/)
--  [Axios](https://github.com/axios/axios)
--  [Leaflet](https://github.com/Leaflet/Leaflet)
+-  ReactJS
+-  Axios
+-  Leaflet
 
 
 ## Front-end Mobile
 
--  [React Native](https://github.com/facebook/react-native)
--  [Axios](https://github.com/axios/axios)
--  [dayjs](https://github.com/iamkun/dayjs)
+-  React Native
+-  Axios
+-  dayjs
 
 ## Implantação em produção
 - Back end: Heroku
