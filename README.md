@@ -1,4 +1,4 @@
-# Ds Delivery
+# DS Delivery
 
 # Sobre o projeto
 
