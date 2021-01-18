@@ -6,12 +6,12 @@ DS Delivery
 
 
 
-## :information_source: Sobre o projeto
+## Descrição do Projeto
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dsdeliver-sds2/blob/main/LICENSE) 
 
 
-DS Delivery é uma aplicação full stack web e mobile construída durante a  **Semana DevSuperior 2.0**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+<p align="justify"> DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª eidição da  **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").</p>
 
 A aplicação consiste em um sistema de registro e entrega de pedidos.
 
