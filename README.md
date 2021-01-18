@@ -3,15 +3,13 @@
 DS Delivery
 </h1>
 
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dsdeliver-sds2/blob/main/LICENSE) 
 
 
 ## Descrição do Projeto
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dsdeliver-sds2/blob/main/LICENSE) 
 
-
-<p align="justify"> DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª eidição da  **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").</p>
+<p align="justify"> DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª eidição da  **Semana DevSuperior**, evento organizado pela DevSuperior https://devsuperior.com </p>
 
 A aplicação consiste em um sistema de registro e entrega de pedidos.
 
@@ -63,10 +61,13 @@ A aplicação consiste em um sistema de registro e entrega de pedidos.
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
+> Status do Projeto: Concluido :heavy_check_mark:
 
-## :information_source: Deploy
 
-- Netlify: https://marco-sds2.netlify.app/
+## Deploy da Aplicação com Netlify: :dash:
+/* Aqui estamos usando a tag Quotes do markdown*/
+
+> https://marco-sds2.netlify.app/
 
 
 # Autor
