@@ -4,11 +4,6 @@ DS Delivery
 </h1>
 
 
-## :information_source: Link 
-
-- Netlify: https://marco-sds2.netlify.app/
-
-
 
 
 ## :information_source: Sobre o projeto
@@ -67,6 +62,11 @@ A aplicação consiste em um sistema de registro e entrega de pedidos.
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: Postgresql
+
+
+## :information_source: Deploy
+
+- Netlify: https://marco-sds2.netlify.app/
 
 
 # Autor
