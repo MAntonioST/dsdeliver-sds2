@@ -1,9 +1,12 @@
 
-<h1 align="center">
-DS Delivery
-</h1>
+<div>
+<textarea style="display:none;">### DS Delivery
+</div>
+
+
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dsdeliver-sds2/blob/main/LICENSE) 
+
 
 
 ## Descrição do Projeto
