@@ -61,18 +61,20 @@ A aplicação consiste em um sistema de registro e entrega de pedidos.
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-> Status do Projeto: Concluido :heavy_check_mark:
+
+## Status do Projeto: 
+
+> Concluido :heavy_check_mark:
 
 
 ## Deploy da Aplicação com Netlify: :dash:
-/* Aqui estamos usando a tag Quotes do markdown*/
 
 > https://marco-sds2.netlify.app/
 
 
 # Autor
 
-Marco Antonio Teixeira
+> Marco Antonio Teixeira
 
-https://www.linkedin.com/in/marco-antonio-teixeira
+> https://www.linkedin.com/in/marco-antonio-teixeira
 
