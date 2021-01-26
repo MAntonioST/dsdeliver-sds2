@@ -11,8 +11,8 @@
 ## Descrição do Projeto
 
 
-<p align="justify"> DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª eidição da  Semana DevSuperior, evento organizado pela DevSuperior https://devsuperior.com </p>
-
+<p align="justify"> DS Delivery é uma aplicação Full Stack web e mobile, desenvolvida durante a  2ª edição da Semana DevSuperior, evento organizado pela DevSuperior 
+  https://devsuperior.com.
 A aplicação consiste em um sistema de registro e entrega de pedidos.
 
 
